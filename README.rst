@@ -1,3 +1,6 @@
+LOCAL FORK OF Heroku3 that removes simplejson (stale if https://github.com/martyzz1/heroku3.py/pull/73 is merged)
+
+
 Heroku3.py
 ==========
 
